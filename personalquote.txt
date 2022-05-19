@@ -1,1 +1,1 @@
-This is the personal quote file not in master but in personal branch
+This is not the exact personal quote file not in master but in personal branch
