@@ -4,3 +4,4 @@ Commit 3 : Line 5
 New Happiness text
 I have updated it in the remote repository
 Updated another line
+Updated to create conflict
